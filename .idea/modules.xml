@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hao-parttern-factory/hao-parttern-factory.iml" filepath="$PROJECT_DIR$/hao-parttern-factory/hao-parttern-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hao-pattern-decorator/hao-pattern-decorator.iml" filepath="$PROJECT_DIR$/hao-pattern-decorator/hao-pattern-decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hao-pattern-delegate/hao-pattern-delegate.iml" filepath="$PROJECT_DIR$/hao-pattern-delegate/hao-pattern-delegate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hao-pattern-observer/hao-pattern-observer.iml" filepath="$PROJECT_DIR$/hao-pattern-observer/hao-pattern-observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/设计模式.iml" filepath="$PROJECT_DIR$/设计模式.iml" />
+    </modules>
+  </component>
+</project>

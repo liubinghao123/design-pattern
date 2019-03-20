@@ -1,0 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="acbce79a-1c33-4a81-84ac-d62a4007a215" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/hao-pattern-observer/src/main/java/com/hao/guava/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/hao-pattern-observer/src/main/java/com/hao/guava/Teacher.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/hao-pattern-decorator/target/" />
+    <ignored path="$PROJECT_DIR$/hao-pattern-observer/target/" />
+    <ignored path="$PROJECT_DIR$/hao-pattern-delegate/target/" />
+    <ignored path="$PROJECT_DIR$/hao-parttern-factory/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/IntelCpu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/SamsuangDisk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/SamsuangMemory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/AcerComputeFacotry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+              <folding>
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/SamsuangComputeFacotry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding>
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#196#197#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#281#282#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/AbstractFactoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="uml://JAVA/com.hao.abstracefactory.AcerComputeFacotry">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>com.hao.abstracefactory.AcerComputeFacotry</OriginalElement>
+              <nodes>
+                <node x="0.0" y="79.0">com.hao.abstracefactory.AcerComputeFacotry</node>
+                <node x="150.0" y="385.0">com.hao.abstracefactory.SamsuangDisk</node>
+                <node x="0.0" y="232.0">com.hao.abstracefactory.KingstonMemory</node>
+                <node x="116.5" y="153.0">com.hao.abstracefactory.Memory</node>
+                <node x="122.0" y="0.0">com.hao.abstracefactory.ComputeFactory</node>
+                <node x="333.0" y="385.0">com.hao.abstracefactory.IntelCpu</node>
+                <node x="452.0" y="385.0">com.hao.abstracefactory.AmdCpu</node>
+                <node x="105.0" y="306.0">com.hao.abstracefactory.Disk</node>
+                <node x="406.0" y="306.0">com.hao.abstracefactory.Cpu</node>
+                <node x="198.0" y="79.0">com.hao.abstracefactory.SamsuangComputeFacotry</node>
+                <node x="173.0" y="232.0">com.hao.abstracefactory.SamsuangMemory</node>
+                <node x="0.0" y="459.0">com.hao.abstracefactory.AbstractFactoryTest</node>
+                <node x="0.0" y="385.0">com.hao.abstracefactory.KingstonDisk</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="com.hao.abstracefactory.AcerComputeFacotry" target="com.hao.abstracefactory.ComputeFactory">
+                  <point x="0.0" y="-14.5" />
+                  <point x="89.0" y="54.0" />
+                  <point x="159.5" y="54.0" />
+                  <point x="-37.5" y="14.5" />
+                </edge>
+                <edge source="com.hao.abstracefactory.AmdCpu" target="com.hao.abstracefactory.Cpu">
+                  <point x="0.0" y="-14.5" />
+                  <point x="502.5" y="360.0" />
+                  <point x="460.75" y="360.0" />
+                  <point x="18.25" y="14.5" />
+                </edge>
+                <edge source="com.hao.abstracefactory.IntelCpu" target="com.hao.abstracefactory.Cpu">
+                  <point x="0.0" y="-14.5" />
+                  <point x="382.5" y="360.0" />
+                  <point x="424.25" y="360.0" />
+                  <point x="-18.25" y="14.5" />
+                </edge>
+                <edge source="com.hao.abstracefactory.KingstonDisk" target="com.hao.abstracefactory.Disk">
+                  <point x="0.0" y="-14.5" />
+                  <point x="65.0" y="360.0" />
+                  <point x="123.5" y="360.0" />
+                  <point x="-18.5" y="14.5" />
+                </edge>
+                <edge source="com.hao.abstracefactory.SamsuangDisk" target="com.hao.abstracefactory.Disk">
+                  <point x="0.0" y="-14.5" />
+                  <point x="219.0" y="360.0" />
+                  <point x="160.5" y="360.0" />
+                  <point x="18.5" y="14.5" />
+                </edge>
+                <edge source="com.hao.abstracefactory.KingstonMemory" target="com.hao.abstracefactory.Memory">
+                  <point x="0.0" y="-14.5" />
+                  <point x="76.5" y="207.0" />
+                  <point x="140.75" y="207.0" />
+                  <point x="-24.25" y="14.5" />
+                </edge>
+                <edge source="com.hao.abstracefactory.SamsuangComputeFacotry" target="com.hao.abstracefactory.ComputeFactory">
+                  <point x="0.0" y="-14.5" />
+                  <point x="305.0" y="54.0" />
+                  <point x="234.5" y="54.0" />
+                  <point x="37.5" y="14.5" />
+                </edge>
+                <edge source="com.hao.abstracefactory.SamsuangMemory" target="com.hao.abstracefactory.Memory">
+                  <point x="0.0" y="-14.5" />
+                  <point x="253.5" y="207.0" />
+                  <point x="189.25" y="207.0" />
+                  <point x="24.25" y="14.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="375.5" y="178.0" />
+              <SelectedNodes />
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/ComputeFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/AmdCpu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/KingstonMemory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/hao-pattern-observer" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/factory/Factory.java" />
+        <option value="$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/factory/FactoryA.java" />
+        <option value="$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/factory/FactoryB.java" />
+        <option value="$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/Department.java" />
+        <option value="$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/Apply.java" />
+        <option value="$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/DelegateTest.java" />
+        <option value="$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/Apply2.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/JSON-Groovy.json.groovy" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/simplefactory/Course.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/simplefactory/JavaCourse.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/simplefactory/PythonCourse.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/simplefactory/BigDataCourse.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/simplefactory/SimpleFactoryTest.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/methodfacotry/GPFactory.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/methodfacotry/CzFactory.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/methodfacotry/MethodFactoryTest.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/methodfacotry/FKFactory.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/simplefactory/CourseFactory.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/methodfacotry/ITClubFactory.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/ICpu.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/ToshibaComputeFacotry.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/Cpu.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/Disk.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/Memory.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/KingstonCpu.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/KingstonDisk.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/KingstonMemory.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/SamsuangDisk.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/SamsuangMemory.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/KingstonComputeFacotry.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/SamsuangCpu.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/IntelCpu.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/ComputeFactory.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/AcerComputeFacotry.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/SamsuangComputeFacotry.java" />
+        <option value="$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/AbstractFactoryTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="817" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553070737092" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hao.abstracefactory" />
+      <recent name="com.hao.methodfacotry" />
+      <recent name="com.hao.simplefactory" />
+      <recent name="com.hao" />
+      <recent name="com.hao.factory" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AbstractFactoryTest">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hao.abstracefactory.AbstractFactoryTest" />
+      <module name="hao-parttern-factory" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hao.abstracefactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DelegateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hao.DelegateTest" />
+      <module name="hao-pattern-delegate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hao.methodfacotry.MethodFactoryTest" />
+      <module name="hao-parttern-factory" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hao.methodfacotry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hao.observer.ObserverTest" />
+      <module name="hao-pattern-observer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hao.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hao.simplefactory.SimpleFactoryTest" />
+      <module name="hao-parttern-factory" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hao.simplefactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AbstractFactoryTest" />
+        <item itemvalue="Application.MethodFactoryTest" />
+        <item itemvalue="Application.SimpleFactoryTest" />
+        <item itemvalue="Application.DelegateTest" />
+        <item itemvalue="Application.ObserverTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acbce79a-1c33-4a81-84ac-d62a4007a215" name="Default" comment="" />
+      <created>1552888933822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552888933822</updated>
+      <workItem from="1552888938055" duration="22000" />
+      <workItem from="1552989377458" duration="568000" />
+      <workItem from="1552995859646" duration="1486000" />
+      <workItem from="1553062893664" duration="7649000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9725000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="817" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" weight="0.24964234" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Nl-Palette" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="UI Designer" order="7" />
+      <window_info anchor="bottom" id="Tail" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32965517" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32965517" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32965517" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32965517" />
+      <window_info anchor="right" id="Json Parser" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Properties" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Maven" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" weight="0.24964234" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Nl-Palette" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="UI Designer" order="7" />
+      <window_info anchor="bottom" id="Tail" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32965517" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32965517" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32965517" />
+      <window_info anchor="right" id="Json Parser" order="0" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Properties" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="10" />
+      <window_info anchor="right" id="Maven" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/hao-pattern-observer/src/main/java/com/hao/observer/ObserverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-pattern-delegate/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/factory/FactoryA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="7" column="55" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/factory/FactoryB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/factory/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/DelegateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/Apply2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/factory/D123.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/factory/DD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-pattern-delegate/src/main/java/com/hao/Apply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/JSON-Groovy.json.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/JSON-Clojure.json.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/HTML-JavaScript.html.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324">
+          <folding>
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/CSV-Groovy.csv.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/HTML-Groovy.html.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/simplefactory/PythonCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/simplefactory/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.hao.simplefactory.CourseFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.hao.simplefactory.CourseFactory</OriginalElement>
+          <nodes>
+            <node x="" y="">com.hao.simplefactory.SimpleFactoryTest</node>
+            <node x="" y="">com.hao.simplefactory.BigDataCourse</node>
+            <node x="" y="">com.hao.simplefactory.Course</node>
+            <node x="" y="">com.hao.simplefactory.PythonCourse</node>
+            <node x="" y="">com.hao.simplefactory.CourseFactory</node>
+            <node x="" y="">com.hao.simplefactory.JavaCourse</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="69.0" y="14.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/simplefactory/JavaCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/simplefactory/BigDataCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.hao.simplefactory.BigDataCourse">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.hao.simplefactory.BigDataCourse</OriginalElement>
+          <nodes>
+            <node x="141.06190476190477" y="158.0">com.hao.simplefactory.SimpleFactoryTest</node>
+            <node x="311.84761904761905" y="0.0">com.hao.simplefactory.Course</node>
+            <node x="298.0" y="79.0">com.hao.simplefactory.BigDataCourse</node>
+            <node x="458.0" y="79.0">com.hao.simplefactory.PythonCourse</node>
+            <node x="140.0" y="79.0">com.hao.simplefactory.CourseFactory</node>
+            <node x="0.0" y="79.0">com.hao.simplefactory.JavaCourse</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.hao.simplefactory.CourseFactory" target="com.hao.simplefactory.Course">
+              <point x="0.0" y="-14.5" />
+              <point x="209.0" y="59.0" />
+              <point x="339.44761904761907" y="59.0" />
+              <point x="-18.399999999999977" y="14.5" />
+            </edge>
+            <edge source="com.hao.simplefactory.SimpleFactoryTest" target="com.hao.simplefactory.Course">
+              <point x="53.66666666666663" y="-14.5" />
+              <point x="275.2285714285714" y="133.0" />
+              <point x="604.5" y="133.0" />
+              <point x="604.5" y="49.0" />
+              <point x="394.64761904761906" y="49.0" />
+              <point x="36.80000000000001" y="14.5" />
+            </edge>
+            <edge source="com.hao.simplefactory.BigDataCourse" target="com.hao.simplefactory.Course">
+              <point x="0.0" y="-14.5" />
+              <point x="368.0" y="59.0" />
+              <point x="357.84761904761905" y="59.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.hao.simplefactory.JavaCourse" target="com.hao.simplefactory.Course">
+              <point x="0.0" y="-14.5" />
+              <point x="60.0" y="49.0" />
+              <point x="321.04761904761904" y="49.0" />
+              <point x="-36.80000000000001" y="14.5" />
+            </edge>
+            <edge source="com.hao.simplefactory.PythonCourse" target="com.hao.simplefactory.Course">
+              <point x="0.0" y="-14.5" />
+              <point x="526.0" y="59.0" />
+              <point x="376.247619047619" y="59.0" />
+              <point x="18.399999999999977" y="14.5" />
+            </edge>
+            <edge source="com.hao.simplefactory.SimpleFactoryTest" target="com.hao.simplefactory.CourseFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="221.56190476190477" y="133.0" />
+              <point x="209.0" y="133.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.hao.simplefactory.SimpleFactoryTest" target="com.hao.simplefactory.JavaCourse">
+              <point x="-53.66666666666663" y="-14.5" />
+              <point x="167.89523809523814" y="133.0" />
+              <point x="60.0" y="133.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="25.5" y="116.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/methodfacotry/MethodFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.hao.methodfacotry.ITClubFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.hao.methodfacotry.ITClubFactory</OriginalElement>
+          <nodes>
+            <node x="262.0" y="79.0">com.hao.methodfacotry.CZFactory</node>
+            <node x="168.5" y="158.0">com.hao.methodfacotry.MethodFactoryTest</node>
+            <node x="132.0" y="79.0">com.hao.methodfacotry.FKFactory</node>
+            <node x="0.0" y="79.0">com.hao.methodfacotry.GPFactory</node>
+            <node x="186.0" y="0.0">com.hao.methodfacotry.ITClubFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.hao.methodfacotry.MethodFactoryTest" target="com.hao.methodfacotry.CZFactory">
+              <point x="21.0" y="-14.5" />
+              <point x="273.5" y="128.0" />
+              <point x="318.0" y="128.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.hao.methodfacotry.MethodFactoryTest" target="com.hao.methodfacotry.ITClubFactory">
+              <point x="63.0" y="-14.5" />
+              <point x="315.5" y="138.0" />
+              <point x="384.5" y="138.0" />
+              <point x="384.5" y="49.0" />
+              <point x="302.375" y="49.0" />
+              <point x="49.875" y="14.5" />
+            </edge>
+            <edge source="com.hao.methodfacotry.FKFactory" target="com.hao.methodfacotry.ITClubFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="187.0" y="59.0" />
+              <point x="235.875" y="59.0" />
+              <point x="-16.625" y="14.5" />
+            </edge>
+            <edge source="com.hao.methodfacotry.MethodFactoryTest" target="com.hao.methodfacotry.GPFactory">
+              <point x="-63.0" y="-14.5" />
+              <point x="189.5" y="138.0" />
+              <point x="56.0" y="138.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="com.hao.methodfacotry.GPFactory" target="com.hao.methodfacotry.ITClubFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="56.0" y="49.0" />
+              <point x="202.625" y="49.0" />
+              <point x="-49.875" y="14.5" />
+            </edge>
+            <edge source="com.hao.methodfacotry.CZFactory" target="com.hao.methodfacotry.ITClubFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="318.0" y="59.0" />
+              <point x="269.125" y="59.0" />
+              <point x="16.625" y="14.5" />
+            </edge>
+            <edge source="com.hao.methodfacotry.MethodFactoryTest" target="com.hao.methodfacotry.FKFactory">
+              <point x="-21.0" y="-14.5" />
+              <point x="231.5" y="128.0" />
+              <point x="187.0" y="128.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-84.5" y="116.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/methodfacotry/GPFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/methodfacotry/CZFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate POJOs.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1289">
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/com/sun/jmx/mbeanserver/DefaultMXBeanMappingFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#50915#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/20.0/guava-20.0.jar!/com/google/common/hash/AbstractStreamingHashFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/methodfacotry/FKFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/simplefactory/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/simplefactory/CourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/methodfacotry/ITClubFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/ToshibaComputeFacotry.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/Cpu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="19" selection-start-line="6" selection-start-column="3" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/Disk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/Memory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/KingstonDisk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/AmdCpu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/KingstonMemory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/SamsuangDisk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/SamsuangMemory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/IntelCpu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/ComputeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/SamsuangComputeFacotry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/AcerComputeFacotry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hao-parttern-factory/src/main/java/com/hao/abstracefactory/AbstractFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.hao.abstracefactory.AcerComputeFacotry">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.hao.abstracefactory.AcerComputeFacotry</OriginalElement>
+          <nodes>
+            <node x="0.0" y="79.0">com.hao.abstracefactory.AcerComputeFacotry</node>
+            <node x="150.0" y="385.0">com.hao.abstracefactory.SamsuangDisk</node>
+            <node x="0.0" y="232.0">com.hao.abstracefactory.KingstonMemory</node>
+            <node x="116.5" y="153.0">com.hao.abstracefactory.Memory</node>
+            <node x="122.0" y="0.0">com.hao.abstracefactory.ComputeFactory</node>
+            <node x="333.0" y="385.0">com.hao.abstracefactory.IntelCpu</node>
+            <node x="452.0" y="385.0">com.hao.abstracefactory.AmdCpu</node>
+            <node x="105.0" y="306.0">com.hao.abstracefactory.Disk</node>
+            <node x="406.0" y="306.0">com.hao.abstracefactory.Cpu</node>
+            <node x="198.0" y="79.0">com.hao.abstracefactory.SamsuangComputeFacotry</node>
+            <node x="173.0" y="232.0">com.hao.abstracefactory.SamsuangMemory</node>
+            <node x="0.0" y="459.0">com.hao.abstracefactory.AbstractFactoryTest</node>
+            <node x="0.0" y="385.0">com.hao.abstracefactory.KingstonDisk</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.hao.abstracefactory.AcerComputeFacotry" target="com.hao.abstracefactory.ComputeFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="89.0" y="54.0" />
+              <point x="159.5" y="54.0" />
+              <point x="-37.5" y="14.5" />
+            </edge>
+            <edge source="com.hao.abstracefactory.AmdCpu" target="com.hao.abstracefactory.Cpu">
+              <point x="0.0" y="-14.5" />
+              <point x="502.5" y="360.0" />
+              <point x="460.75" y="360.0" />
+              <point x="18.25" y="14.5" />
+            </edge>
+            <edge source="com.hao.abstracefactory.IntelCpu" target="com.hao.abstracefactory.Cpu">
+              <point x="0.0" y="-14.5" />
+              <point x="382.5" y="360.0" />
+              <point x="424.25" y="360.0" />
+              <point x="-18.25" y="14.5" />
+            </edge>
+            <edge source="com.hao.abstracefactory.KingstonDisk" target="com.hao.abstracefactory.Disk">
+              <point x="0.0" y="-14.5" />
+              <point x="65.0" y="360.0" />
+              <point x="123.5" y="360.0" />
+              <point x="-18.5" y="14.5" />
+            </edge>
+            <edge source="com.hao.abstracefactory.SamsuangDisk" target="com.hao.abstracefactory.Disk">
+              <point x="0.0" y="-14.5" />
+              <point x="219.0" y="360.0" />
+              <point x="160.5" y="360.0" />
+              <point x="18.5" y="14.5" />
+            </edge>
+            <edge source="com.hao.abstracefactory.KingstonMemory" target="com.hao.abstracefactory.Memory">
+              <point x="0.0" y="-14.5" />
+              <point x="76.5" y="207.0" />
+              <point x="140.75" y="207.0" />
+              <point x="-24.25" y="14.5" />
+            </edge>
+            <edge source="com.hao.abstracefactory.SamsuangComputeFacotry" target="com.hao.abstracefactory.ComputeFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="305.0" y="54.0" />
+              <point x="234.5" y="54.0" />
+              <point x="37.5" y="14.5" />
+            </edge>
+            <edge source="com.hao.abstracefactory.SamsuangMemory" target="com.hao.abstracefactory.Memory">
+              <point x="0.0" y="-14.5" />
+              <point x="253.5" y="207.0" />
+              <point x="189.25" y="207.0" />
+              <point x="24.25" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="375.5" y="178.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hao-parttern-factory</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.guava:guava:20.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
